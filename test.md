@@ -1,3 +1,3 @@
 # test
 test
-![GitHub Logo](/images/logo.png)
+![test](armory_tutorials/tutorial_images/tech1.png)
